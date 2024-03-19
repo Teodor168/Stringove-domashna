@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\Stringove-domashna\Preobrazuvane\bin\Debug\net8.0\Preobrazuvane.exe
+C:\Users\User\Documents\programirane\Stringove-domashna\Preobrazuvane\bin\Debug\net8.0\Preobrazuvane.deps.json
+C:\Users\User\Documents\programirane\Stringove-domashna\Preobrazuvane\bin\Debug\net8.0\Preobrazuvane.runtimeconfig.json
+C:\Users\User\Documents\programirane\Stringove-domashna\Preobrazuvane\bin\Debug\net8.0\Preobrazuvane.dll
+C:\Users\User\Documents\programirane\Stringove-domashna\Preobrazuvane\bin\Debug\net8.0\Preobrazuvane.pdb
+C:\Users\User\Documents\programirane\Stringove-domashna\Preobrazuvane\obj\Debug\net8.0\Preobrazuvane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\Stringove-domashna\Preobrazuvane\obj\Debug\net8.0\Preobrazuvane.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\Stringove-domashna\Preobrazuvane\obj\Debug\net8.0\Preobrazuvane.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\Stringove-domashna\Preobrazuvane\obj\Debug\net8.0\Preobrazuvane.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\Stringove-domashna\Preobrazuvane\obj\Debug\net8.0\Preobrazuvane.dll
+C:\Users\User\Documents\programirane\Stringove-domashna\Preobrazuvane\obj\Debug\net8.0\refint\Preobrazuvane.dll
+C:\Users\User\Documents\programirane\Stringove-domashna\Preobrazuvane\obj\Debug\net8.0\Preobrazuvane.pdb
+C:\Users\User\Documents\programirane\Stringove-domashna\Preobrazuvane\obj\Debug\net8.0\Preobrazuvane.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\Stringove-domashna\Preobrazuvane\obj\Debug\net8.0\ref\Preobrazuvane.dll

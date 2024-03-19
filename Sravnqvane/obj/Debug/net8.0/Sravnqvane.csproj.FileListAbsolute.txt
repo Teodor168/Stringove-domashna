@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\Stringove-domashna\Sravnqvane\bin\Debug\net8.0\Sravnqvane.exe
+C:\Users\User\Documents\programirane\Stringove-domashna\Sravnqvane\bin\Debug\net8.0\Sravnqvane.deps.json
+C:\Users\User\Documents\programirane\Stringove-domashna\Sravnqvane\bin\Debug\net8.0\Sravnqvane.runtimeconfig.json
+C:\Users\User\Documents\programirane\Stringove-domashna\Sravnqvane\bin\Debug\net8.0\Sravnqvane.dll
+C:\Users\User\Documents\programirane\Stringove-domashna\Sravnqvane\bin\Debug\net8.0\Sravnqvane.pdb
+C:\Users\User\Documents\programirane\Stringove-domashna\Sravnqvane\obj\Debug\net8.0\Sravnqvane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\Stringove-domashna\Sravnqvane\obj\Debug\net8.0\Sravnqvane.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\Stringove-domashna\Sravnqvane\obj\Debug\net8.0\Sravnqvane.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\Stringove-domashna\Sravnqvane\obj\Debug\net8.0\Sravnqvane.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\Stringove-domashna\Sravnqvane\obj\Debug\net8.0\Sravnqvane.dll
+C:\Users\User\Documents\programirane\Stringove-domashna\Sravnqvane\obj\Debug\net8.0\refint\Sravnqvane.dll
+C:\Users\User\Documents\programirane\Stringove-domashna\Sravnqvane\obj\Debug\net8.0\Sravnqvane.pdb
+C:\Users\User\Documents\programirane\Stringove-domashna\Sravnqvane\obj\Debug\net8.0\Sravnqvane.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\Stringove-domashna\Sravnqvane\obj\Debug\net8.0\ref\Sravnqvane.dll
